@@ -11,8 +11,8 @@
 
 #imagen_principal{ background-image: url(../imagen/FONDO-LANDING-2.png);
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size:cover;
+    /* background-attachment: fixed;
+    background-size:cover; */
     
     
 
@@ -25,7 +25,7 @@
 #premios_formulario{ background-color: #109c28 ;
 
 }
-#terminos_condiciones{background-color: #109c28 
+#terminos_condiciones {background-color: #109c28 
 
 
 }
