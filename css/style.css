@@ -9,8 +9,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
-#imagen_principal{ background-image: url(../imagen/FONDO-LANDING-2.png);
-    background-repeat: no-repeat;
+#imagen_principal{ background-color: purple ;
+    
+    /* background-image: url(../imagen/FONDO-LANDING-2.png);
+    background-repeat: no-repeat; */
     /* background-attachment: fixed;
     background-size:cover; */
     
