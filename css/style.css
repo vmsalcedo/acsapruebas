@@ -1,0 +1,34 @@
+/* #imagen_principal{ background-color: chartreuse;
+    height: 80vh;
+
+} */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+#imagen_principal{ background-image: url(../imagen/FONDO-LANDING-2.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    
+    
+
+}
+
+#texto_principal {background-color: #109c28  ;
+
+} 
+
+#premios_formulario{ background-color: #109c28 ;
+
+}
+#terminos_condiciones{background-color: #109c28 
+
+
+}
+
+
+
